@@ -1,5 +1,5 @@
 {
-  "name": "netlify-cms-widget-uuid-v4",
+  "name": "netlify-cms-widget-uuid-v4-patch",
   "version": "1.1.1",
   "description": "Generate a V4 UUID for NetlifyCMS",
   "repository": {
