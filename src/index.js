@@ -8,6 +8,11 @@ export class UuidControl extends React.Component {
 
   }
 
+
+  validateWrappedControl = (field) => {
+    return { error: false };
+  };
+
   render() {
     const {
       forID,
